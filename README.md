@@ -1,7 +1,7 @@
 # Project
 Get current weather by city using OpenWeatherMap.org and the current datetime in GTM and display these informations on the LCD display. The information is auto refreshed for every 60 seconds.
 
-<img src="https://i.imgur.com/ocrCnBj.jpg" width="250">
+<img src="https://i.imgur.com/ocrCnBj.jpg" width="500">
 
 ## Requirements
 - Arduino MKR1000
